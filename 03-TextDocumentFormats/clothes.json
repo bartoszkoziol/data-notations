@@ -53,5 +53,16 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Berskha",
+        "founded": 1972,
+        "headquarters": "Cyprus",
+        "employees":20000,
+        "products": [
+            "Casual Wear",
+            "Formal Wear",
+            "Shoes"
+        ]
     }
 ]

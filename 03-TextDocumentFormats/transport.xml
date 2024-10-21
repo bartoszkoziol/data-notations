@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportMEANS>
+<vehicle type="car" fuel="gasoline"> 
+<brand>Toyota</brand>
+<model>Corolla</brand>
+<year>2023</year>
+<color>White</color>
+</vehicle>
+<vehicle type="bicycle" gear="21">
+        <brand>Trek</brand>
+        <model>FX 3</model>
+        <year>2020</year>
+        <color>Black</color>
+    </vehicle>
+    <vehicle type="bus" capacity="50">
+        <route>45A</route>
+        <operator>City Transport</operator>
+        <year>2018</year>
+        <color>Yellow</color>
+    </vehicle>
+
+</transportMEANS>
