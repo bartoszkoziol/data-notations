@@ -1,6 +1,6 @@
-#Country Information
+# Country Information
 
-| **Country**      | **Capital**       | **Currency**      | **Currency Symbol** | **Population** 
+| **Country**      | **Capital**       | **Currency**      | **Currency Symbol** | **Population**|
 |------------------|-------------------|-------------------|---------------------|---------------|
 | United States    | Washington D.C.   | US Dollar        | USD                 | 331002651      |
 | Japan            | Tokyo             | Yen              | JPY                 | 126476461      |
