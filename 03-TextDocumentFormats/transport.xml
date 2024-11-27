@@ -1,25 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>  <!-- Prolog XML: definiuje wersję i kodowanie dokumentu -->
-<transportMEANS>                       <!-- Element główny: oznacza zbiór środków transportu -->
-    <vehicle type="car" fuel="gasoline"> <!-- Element: pojazd, z atrybutami 'type' (typ pojazdu) i 'fuel' (paliwo) -->
-        <brand>Toyota</brand>         <!-- Element: marka pojazdu -->
-        <model>Corolla</model>       <!-- Element: model pojazdu -->
-        <year>2023</year>            <!-- Element: rok produkcji pojazdu -->
-        <color>White</color>         <!-- Element: kolor pojazdu -->
-    </vehicle>                       <!-- Koniec elementu: pojazd -->
-    
-    <vehicle type="bicycle" gear="21">  <!-- Element: pojazd, z atrybutami 'type' (typ pojazdu) i 'gear' (liczba biegów) -->
-        <brand>Trek</brand>           <!-- Element: marka roweru -->
-        <model>FX 3</model>          <!-- Element: model roweru -->
-        <year>2020</year>            <!-- Element: rok produkcji roweru -->
-        <color>Black</color>         <!-- Element: kolor roweru -->
-    </vehicle>                       <!-- Koniec elementu: pojazd -->
-    
-    <vehicle type="bus" capacity="50"> <!-- Element: pojazd, z atrybutami 'type' (typ pojazdu) i 'capacity' (pojemność) -->
-        <route>45A</route>           <!-- Element: trasa autobusu -->
-        <operator>City Transport</operator> <!-- Element: operator autobusu -->
-        <year>2018</year>            <!-- Element: rok produkcji autobusu -->
-        <color>Yellow</color>        <!-- Element: kolor autobusu -->
-    </vehicle>                       <!-- Koniec elementu: pojazd -->
+<?xml version="1.0" encoding="UTF-8"?>
+<transportMEANS>
+<vehicle type="car" fuel="gasoline"> 
+<brand>Toyota</brand>
+<model>Corolla</brand>
+<year>2023</year>
+<color>White</color>
+</vehicle>
+<vehicle type="bicycle" gear="21">
+        <brand>Trek</brand>
+        <model>FX 3</model>
+        <year>2020</year>
+        <color>Black</color>
+    </vehicle>
+    <vehicle type="bus" capacity="50">
+        <route>45A</route>
+        <operator>City Transport</operator>
+        <year>2018</year>
+        <color>Yellow</color>
+    </vehicle>
 
 </transportMEANS>                     <!-- Koniec elementu głównego: zbiór środków transportu -->
 
